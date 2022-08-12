@@ -1,0 +1,15 @@
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\bin\Debug\net6.0\tsk3.exe
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\bin\Debug\net6.0\tsk3.deps.json
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\bin\Debug\net6.0\tsk3.runtimeconfig.json
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\bin\Debug\net6.0\tsk3.dll
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\bin\Debug\net6.0\tsk3.pdb
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.csproj.AssemblyReference.cache
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.AssemblyInfoInputs.cache
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.AssemblyInfo.cs
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.csproj.CoreCompileInputs.cache
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.dll
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\refint\tsk3.dll
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.pdb
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\tsk3.genruntimeconfig.cache
+D:\DZ Dotnet\Dotnet\Homework03\tsk3\obj\Debug\net6.0\ref\tsk3.dll
